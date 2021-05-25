@@ -1,5 +1,5 @@
 # MVVMSample004
-Microsoft.Toolkit.Mvvm WPF Sample 4 - messenger
+MVVM Toolkit (`Microsoft.Toolkit.Mvvm`) WPF Sample 4 - messenger
 
 Sample of sending an arbitrary class using WeakReferenceMessenger
 
